@@ -1,0 +1,52 @@
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.csprojAssemblyReference.cache
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.Main.resources
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.OE.resources
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.SSHCLI.resources
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.Form1.resources
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.Properties.Resources.resources
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.csproj.GenerateResource.cache
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.csproj.CoreCompileInputs.cache
+D:\Projects\CLI fin\CLI fin - Copy\CLI\bin\Release\CLI.exe.config
+D:\Projects\CLI fin\CLI fin - Copy\CLI\bin\Release\CLI.exe
+D:\Projects\CLI fin\CLI fin - Copy\CLI\bin\Release\CLI.pdb
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.exe
+D:\Projects\CLI fin\CLI fin - Copy\CLI\obj\Release\CLI.pdb
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\bin\Release\CLI.exe.config
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\bin\Release\CLI.exe
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\bin\Release\CLI.pdb
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.csprojAssemblyReference.cache
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.Main.resources
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.OE.resources
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.SSHCLI.resources
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.Form1.resources
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.Properties.Resources.resources
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.csproj.GenerateResource.cache
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.csproj.CoreCompileInputs.cache
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.exe
+C:\Users\OneMike\Desktop\CLI APP SOL\CLI\obj\Release\CLI.pdb
+D:\Projects\CLI APP SOL\CLI\bin\Release\CLI.exe.config
+D:\Projects\CLI APP SOL\CLI\bin\Release\CLI.exe
+D:\Projects\CLI APP SOL\CLI\bin\Release\CLI.pdb
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.csprojAssemblyReference.cache
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.Main.resources
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.OE.resources
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.SSHCLI.resources
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.Form1.resources
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.Properties.Resources.resources
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.csproj.GenerateResource.cache
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.csproj.CoreCompileInputs.cache
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.exe
+D:\Projects\CLI APP SOL\CLI\obj\Release\CLI.pdb
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\bin\Release\CLI.exe.config
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\bin\Release\CLI.exe
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\bin\Release\CLI.pdb
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.csprojAssemblyReference.cache
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.Main.resources
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.OE.resources
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.SSHCLI.resources
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.Form1.resources
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.Properties.Resources.resources
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.csproj.GenerateResource.cache
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.csproj.CoreCompileInputs.cache
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.exe
+D:\Projects\CLI APP SOL\CLI APP SOL\CLI\obj\Release\CLI.pdb
