@@ -8,16 +8,10 @@
 
 ## Installation
 ```bash
-git clone https://github.com/1onemike/SMTP-Mailer
+git clone https://github.com/1onemike/SSH-CLI/
 ```
-## FEATURES
-HTML messages with instant preview.
 
-Multiple receivers.
 
-Attachment option.
-
-Delivery results.
 
 
 ## Contributing
