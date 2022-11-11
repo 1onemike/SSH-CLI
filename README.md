@@ -1,9 +1,9 @@
 # SSH-CLI
  C# windows application built to facilitate multi monitor SSH bash scripting using plink and putty
 
-![N|Solid](https://linx.li/s/5csi1zn6.jpg)
+[![cli.jpg](https://i.postimg.cc/T1kMpR1p/cli.jpg)](https://postimg.cc/gL6B7bvW)
 
-![N|Solid](https://linx.li/s/1kz8kamg.jpg)
+
 
 
 ## Installation
