@@ -3,7 +3,7 @@
 
 [![cli.jpg](https://i.postimg.cc/T1kMpR1p/cli.jpg)](https://postimg.cc/gL6B7bvW)
 
-
+[![cli2.png](https://i.postimg.cc/XvzcQmPt/cli2.png)](https://postimg.cc/bG1tvCpR)
 
 
 ## Installation
